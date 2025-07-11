@@ -1,5 +1,6 @@
 # publication
-Pavlou, E. & Kourkoumelis, N. PyFasma: an open-source, modular Python package for preprocessing and multivariate analysis of Raman spectroscopy data. Analyst (2025) doi:10.1039/D5AN00452G.
+Pavlou, E. & Kourkoumelis, N. PyFasma: an open-source, modular Python package for preprocessing and multivariate analysis of Raman spectroscopy data. Analyst (2025)
+https://doi.org/10.1039/D5AN00452G 
 
 
 # pyfasma
