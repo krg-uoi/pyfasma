@@ -4,7 +4,7 @@ https://doi.org/10.1039/D5AN00452G
 
 
 # pyfasma
-PyFasma is a free and open source Python package for preprocessing and analyzing Raman spectra
+PyFasma is a free and open source Python package for preprocessing and analyzing Raman spectra.
 
 
 **Official Documentation**: [pyfasma-def3fa.gitlab.io](https://pyfasma-def3fa.gitlab.io/index.html)
@@ -34,7 +34,7 @@ easy-to-use, extensible solution for Raman data analysis, enabling the reproduci
 - Plug-and-play modules for spectral workflows
 - Supports complex systems with minimal code
 
----
+------
 
 ## 🚀 Quick Start
 
